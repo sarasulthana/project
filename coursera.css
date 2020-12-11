@@ -90,7 +90,7 @@ p{
 
 }
 
-@media (max-width: 300px){
+@media (max-width: 767px){
 	.chicken, .beef, .sushi{
 	width: 95%;
 	margin-left: 10px;	
